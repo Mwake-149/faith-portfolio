@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Faith Omusundi | Virtual Assistant</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <img src="assets/profile.jpg" alt="Faith Omusundi" class="profile">
+    <h1>Faith Omusundi</h1>
+    <p>Virtual Assistant | Customer Support Specialist</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I'm Faith Omusundi, a passionate and detail-oriented Virtual Assistant and Customer Support Specialist. With a strong background in administrative support, email and calendar management, and client communication, I bring a calm, confident, and professional presence to every interaction.</p>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li>Virtual Assistance</li>
+      <li>Customer Support</li>
+      <li>Email & Calendar Management</li>
+      <li>Data Entry</li>
+      <li>Administrative Support</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Testimonials</h2>
+    <blockquote>
+      "Faith is exceptionally organized and always a step ahead. She helped me stay focused and reduced my workload significantly." <br><strong>– Rebecca K.</strong>
+    </blockquote>
+    <blockquote>
+      "Her communication is warm and professional. Clients felt supported and valued. I would highly recommend working with her." <br><strong>– Daniel M.</strong>
+    </blockquote>
+  </section>
+
+  <section>
+    <h2>Resume</h2>
+    <a href="assets/Faith_Resume.pdf" download>📄 Download My Resume</a>
+  </section>
+
+  <footer>
+    <p>📧 omusundifaith4@gmail.com |
+    <a href="https://www.linkedin.com/in/faith-omusundi-2532a2ab/" target="_blank">🔗 LinkedIn</a></p>
+  </footer>
+</body>
+</html>
